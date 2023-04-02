@@ -1,0 +1,20 @@
+[
+    {
+        "nomeSensor": "sensor 01",
+        "valorSensor": 30,
+        "unidadeMedida": "C°",
+        "sensorAlarmado": false
+    },
+    {
+        "nomeSensor": "sensor 02",
+        "valorSensor": 31,
+        "unidadeMedida": "C°",
+        "sensorAlarmado": false
+    },
+    {
+        "nomeSensor": "sensor 03",
+        "valorSensor": 29,
+        "unidadeMedida": "C°",
+        "sensorAlarmado": false
+    }
+]
